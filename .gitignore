@@ -1,0 +1,8 @@
+/.env
+/.vscode
+/config/*
+/data/*
+/logs/*
+/www/**
+/sql-mongo-volume/*
+.DS_Store
